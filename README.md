@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.codingame.com/profile/bfe0d4199480884ca6803c250ede14339669463" target="_blank">
-  <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Codingame" height="64" style="button: 25"/>
+  <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Codingame" height="64" style="margin-bottom: 25px"/>
 </a>
 
 
