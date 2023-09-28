@@ -10,6 +10,10 @@
   <img src="https://github.com/nikit34/nikit34/blob/main/media/icons8-telegram-96.png" alt="Telegram" height="96"/>
 </a>
 
+<a href="https://nikit34.github.io/" target="_blank">
+  <img src="https://github.com/nikit34/nikit34/blob/main/media/icons8-portfolio-96.png" alt="Portfolio" height="64"/>
+</a>
+
 <a href="https://www.codingame.com/profile/bfe0d4199480884ca6803c250ede14339669463" target="_blank">
-  <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Telegram" height="64" style="button: 25"/>
+  <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Codingame" height="64" style="button: 25"/>
 </a>
