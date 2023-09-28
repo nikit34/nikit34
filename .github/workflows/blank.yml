@@ -1,11 +1,17 @@
-name: Using classic charts
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stargazers.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_stargazers: yes
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+name: Run Customers Smoke Tests KE
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  graph:
+    runs-on: ke-dev-autotest
+    steps:
+      - name: Using classic charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
