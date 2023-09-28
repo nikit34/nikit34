@@ -11,8 +11,8 @@
 </a>
 
 <a href="https://www.codingame.com/profile/bfe0d4199480884ca6803c250ede14339669463" target="_blank">
-  <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Codingame" height="64" style="margin-bottom: 50px"/>
+  <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Codingame" height="64"/>
 </a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+me...)](https://t.me/nikit34)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+me...)](https://nikit34.github.io/)
