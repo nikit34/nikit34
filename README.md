@@ -13,3 +13,6 @@
 <a href="https://www.codingame.com/profile/bfe0d4199480884ca6803c250ede14339669463" target="_blank">
   <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Codingame" height="64" style="button: 25"/>
 </a>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click me...)](https://git.io/typing-svg)
