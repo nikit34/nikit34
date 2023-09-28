@@ -16,4 +16,4 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+me...)](https://nikit34.github.io/)
+[![](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+me...)](https://nikit34.github.io/)
