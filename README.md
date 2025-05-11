@@ -15,5 +15,6 @@
     <img src="https://github.com/nikit34/nikit34/blob/main/media/icons-codingame-96.png" alt="Codingame" height="64" top="70"/>
   </a>
 </p>
-
+<!--
 [![](https://readme-typing-svg.herokuapp.com?color=ff0000&lines=Click+me...)](https://nikit34.github.io/)
+ -->
